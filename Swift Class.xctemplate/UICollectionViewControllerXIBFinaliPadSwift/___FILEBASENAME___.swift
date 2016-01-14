@@ -10,6 +10,7 @@ import UIKit
 
 private let reuseIdentifier = "Cell"
 
+/// <#Class description#>
 final class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
 
     override func viewDidLoad() {

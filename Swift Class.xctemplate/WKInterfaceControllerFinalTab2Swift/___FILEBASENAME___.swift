@@ -9,6 +9,7 @@
 import WatchKit
 import Foundation
 
+/// <#Class description#>
 final class ___FILEBASENAME___: WKInterfaceController {
 
   override func awakeWithContext(context: AnyObject?) {
