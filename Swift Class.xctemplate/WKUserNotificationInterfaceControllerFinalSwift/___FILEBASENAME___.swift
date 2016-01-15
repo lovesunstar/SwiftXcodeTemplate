@@ -9,6 +9,7 @@
 import WatchKit
 import Foundation
 
+/// <#Class description#>
 final class ___FILEBASENAME___: WKUserNotificationInterfaceController {
 
     override init() {

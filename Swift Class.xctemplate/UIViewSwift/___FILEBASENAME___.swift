@@ -8,6 +8,7 @@
 
 import UIKit
 
+/// <#Class description#>
 class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
 
 }

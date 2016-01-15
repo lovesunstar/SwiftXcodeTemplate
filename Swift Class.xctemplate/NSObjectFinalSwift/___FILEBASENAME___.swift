@@ -8,6 +8,7 @@
 
 import Foundation
 
+/// <#Class description#>
 final class ___FILEBASENAMEASIDENTIFIER___: ___VARIABLE_cocoaTouchSubclass___ {
 
 }
